@@ -1,0 +1,5 @@
+This week we went to the GIS labs, where we learned more about working with mapping software and different types of geographic information. I found the whole process pretty confusing because there were a lot of different tools and things to keep track of. The staff were really helpful and explained things when the class (constantly) got stuck. By the end I felt like I had picked up a lot of useful information even if I didn't really understand everything.
+
+I struggled with  trying to overlay altitude data on top of the map of Ontario. I couldn't  get it to work the way I wanted which was annoying. I also learned how to input different files and layer them over each other while keeping them centred around a specific area (ontario.) That was probably the most useful and memorable thing I learned during class.
+
+My biggest takeaway from this week was realizing just how much there is to learn about GIS. Even though we were only working with some of the basics, its obvious that mastering the software would take too much time.
