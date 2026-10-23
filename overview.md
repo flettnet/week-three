@@ -1,0 +1,5 @@
+This week gave me a better understanding of how GIS can be used in archaeology and why it is used as a tool. I think one of its biggest advantages is being able to store a lot of different information in one place. Instead of having everything spread across different files or documents. GIS allows you to organize information and see how it all connects. I also think being able to share this information digitally is really important, especially when people are working on the same research from different places.
+
+Working with GIS didn't really change how I thought about archaeology, but it did help me understand some of the technology involved a little better. I already knew that modern archaeology uses digital tools but actually getting to work with one showed me first hand experience.
+
+Even though I found GIS pretty complicated , I definitely think it is worth learning. Being able to organize and compare large amounts of information makes it importangt for archaeological research. I think the biggest challenge is just getting comfortable with the software, which would probably take quite a bit of practice.
